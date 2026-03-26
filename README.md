@@ -32,7 +32,7 @@ An AI-powered Streamlit application that tailors your CV to a specific job descr
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/cv-suite.git
+git clone https://github.com/Rikupro-creator/cv-suite.git
 cd cv-suite
 ```
 
