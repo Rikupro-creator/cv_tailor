@@ -32,7 +32,7 @@ An AI-powered Streamlit application that tailors your CV to a specific job descr
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Rikupro-creator/cv-suite.git
+git clone https://github.com/Rikupro-creator/cv-tailor.git
 cd cv-suite
 ```
 
@@ -126,8 +126,8 @@ Hyperlinks in the downloaded Word document are genuine clickable links (proper `
 ## Project Structure
 
 ```
-cv-suite/
-├── cv_suite.py          # Main application (single-file)
+cv-tailor/
+├── doc_editor.py          # Main application (single-file)
 ├── requirements.txt     # Python dependencies
 └── README.md            # This file
 ```
